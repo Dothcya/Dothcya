@@ -1,15 +1,9 @@
 ### Hi there 👋
-click me
-<details>
- <summary>展开查看内容</summary>
- 这是展开后的内容。
-</details>
 
-1. - [ ] 1
-2. - [ ] 2   
-1. - [x] 3   
-2. - [x] 4
 
+1. - [x] 📖CS Student
+2. - [x] ✨Digital Artist
+3. - [x] 🎮Indie Game Developer
 
 ```
 　　　　 ./　　　r＞'7´　 　　　　 ｀' く ヽ. 　　',             
@@ -25,6 +19,11 @@ click me
 　　　/ ／∨　ﾄ 、/　＞-ｒｧ''"　/7::/＼|」＿_/ ／　　　　           `-----'      `-----' `-------'   `--'   `--'  `--'   `------'   
 　 　 ∨.　　＼|＼　　　_ｒト‐''"´//:::::://　　　｀ヽ,　　　　　
 ```
+<details>
+ <summary>my secret</summary>
+ <b>403 Forbidden</b>
+</details>
+
 <!--
 **Dothcya/Dothcya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
