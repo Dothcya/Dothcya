@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-1. - [x] 📖CS Student
+1. - [x] 📖CS sophomore
 2. - [x] ✨Digital Artist
 3. - [x] 🎮Indie Game Developer
 
